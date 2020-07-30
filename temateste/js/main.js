@@ -1,0 +1,1 @@
+"use strict";console.log("teste23211"),console.log("testeando internal");
